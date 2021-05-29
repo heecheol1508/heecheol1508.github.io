@@ -1,3 +1,9 @@
+---
+layout: single
+title: "python lambda"
+---
+
+
 # Python - 람다(lambda)
 
 
